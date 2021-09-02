@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-6",
+  "version": "1.0.0",
+  "description": "Implementare, tramite blocchi condizionali e cicli, la funzione `adultFilter`, la quale, dato un array di persone, filtra e restituisce soltanto coloro che sono maggiorenni",
+  "main": "exercise-3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
